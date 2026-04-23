@@ -1,4 +1,5 @@
 baseURL = 'https://example.org/'
-locale = 'en-us'
+languageCode = 'ja'
+defaultContentLanguage = 'ja'
 title = 'My New Hugo Project'
-theme = "ananke"
+theme = 'ananke'
